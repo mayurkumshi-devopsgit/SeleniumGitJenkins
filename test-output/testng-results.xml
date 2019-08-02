@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="35040" started-at="2019-08-02T10:29:51Z" finished-at="2019-08-02T10:30:26Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="35040" started-at="2019-08-02T10:29:51Z" finished-at="2019-08-02T10:30:26Z">
+      <class name="com.project.GitJenkins.seleniumGitJenkins.AmazonShoppe">
+        <test-method status="PASS" signature="loadSite()[pri:0, instance:com.project.GitJenkins.seleniumGitJenkins.AmazonShoppe@c038203]" name="loadSite" is-config="true" duration-ms="12116" started-at="2019-08-02T10:29:51Z" finished-at="2019-08-02T10:30:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadSite -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:com.project.GitJenkins.seleniumGitJenkins.AmazonShoppe@c038203]" name="Login" duration-ms="17355" started-at="2019-08-02T10:30:03Z" finished-at="2019-08-02T10:30:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="addItems()[pri:0, instance:com.project.GitJenkins.seleniumGitJenkins.AmazonShoppe@c038203]" name="addItems" duration-ms="1400" started-at="2019-08-02T10:30:20Z" finished-at="2019-08-02T10:30:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addItems -->
+        <test-method status="PASS" signature="getMenuNames()[pri:0, instance:com.project.GitJenkins.seleniumGitJenkins.AmazonShoppe@c038203]" name="getMenuNames" duration-ms="16" started-at="2019-08-02T10:30:21Z" finished-at="2019-08-02T10:30:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getMenuNames -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.project.GitJenkins.seleniumGitJenkins.AmazonShoppe@c038203]" name="close" is-config="true" duration-ms="4132" started-at="2019-08-02T10:30:22Z" finished-at="2019-08-02T10:30:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.project.GitJenkins.seleniumGitJenkins.AmazonShoppe -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
